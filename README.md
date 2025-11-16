@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @omondi-ochido
-- 👀 I’m interested in web developmnet
-- 🌱 I’m currently a student at jooust
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 👋 Hi there, I’m Omondi Ochido (@omondi-ochido)
 
-<!---
-omondi-ochido/omondi-ochido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I'm passionate about Web Development, specializing in building modern, responsive, and efficient digital experiences.
+
+🌱 Currently level-up my skills as a student at JOOUST (Jaramogi Oginga Odinga University of Science and Technology). I'm focusing on the MERN stack (MongoDB, Express, React, Node.js)** and major python frameworks.
+
+💡 My focus areas include:
+* Frontend: React, Next.js, and advanced CSS/SASS.
+* Backend: Node.js and RESTful API design.
+* Databases: MongoDB and PostgreSQL.
+
+🤝 I'm open to collaboration** on interesting web projects, especially those focused on community impact or innovative user interfaces.
+
+📫 How to reach me:
+* omoshjagem9@gmail.com
